@@ -9,12 +9,19 @@
  ************************************************************************************/
 
 $mod_strings = array(
-	'ModuleName' => 'Module Name',
-	'SINGLE_ModuleName' => 'Module Name',
-	'ModuleName ID' => 'Module Name ID',
+	'cbProjectBudgetAllocation' => 'Asignación Proyecto-Presupuesto',
+	'SINGLE_cbProjectBudgetAllocation' => 'Asignación Proyecto-Presupuesto',
+	'cbProjectBudgetAllocation ID' => 'ID Proyecto-BA',
 
 	'LBL_CUSTOM_INFORMATION' => 'Información Personalizada',
-	'LBL_MODULEBLOCK_INFORMATION' => 'Información ModuleName',
+	'LBL_ProjectBudgetAllocation_INFORMATION' => 'Información Asignación Proyecto-Presupuesto',
 	'LBL_DESCRIPTION_INFORMATION' => 'Descripción',
+
+	'Project Budget Allocation No' => 'Nº Proyecto-BA',
+	'Related To' => 'Relacionado con',
+	'Budget Item' => 'Elemento Presupuesto',
+	'Percentage' => 'Porcentaje',
+	'Allocated Amount' => 'Cantidad Asignada',
+	'Total Hours' => 'Total Horas',
 );
 ?>
