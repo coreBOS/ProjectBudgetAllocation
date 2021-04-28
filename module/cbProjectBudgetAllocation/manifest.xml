@@ -37,7 +37,7 @@
   `budgetitem` int(11) default NULL,
   `percentage` decimal(5,2) default NULL,
   `pbamount` decimal(25,6) default NULL,
-  `totaltimehours` int(10) default NULL,
+  `totaltimehours` decimal(6,2) default NULL,
   PRIMARY KEY (`cbprojectbudgetallocationid`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8]]></sql>
 </table>
